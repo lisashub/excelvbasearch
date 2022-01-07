@@ -17,7 +17,9 @@ NOTE: The above libraries are already active in the downloadable .xlsm version.
 
 ## Usage
 
-To use the application as-is, simply download the .xlsm file from the repository and click the "Begin Search" button. Some tips:
+To use the application as-is, simply download the .xlsm file from the repository and click the "Begin Search" button. Follow the directions as they appear.
+
+Some use tips:
 * This app is designed to examine local files only; it will not work with URL links
 * Make sure to enter the full path with the filename - for example, "C:\User\Desktop\filename.xlsm" (without quotes)
 * Searches are not case sensitive
