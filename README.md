@@ -1,7 +1,7 @@
 # Excel VBA Search
-A VBA application to find one or more search terms within a single file's Excel VBA project code. It can be used to help with
-reverse engineering existing code to better understand where code elements appear and which code elements should be updated when making 
-project changes.
+A VBA application to find one or more search terms within a single file's Excel VBA project code. It can be used to help with reverse engineering existing 
+projects to better understand where code elements appear and which elements should be updated when making changes. Instead of cycling through single 
+instances of a term using the in-built VBA search feature, this app reveals all instances of a given search string in one place.
 
 ## Prerequisites
 (1) The following VBA IDE libraries should be active in the app's Excel file:
