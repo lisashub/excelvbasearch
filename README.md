@@ -34,12 +34,13 @@ The three source files of the downloadable .xlsm version are also available in t
 * Option to work with URL links
 
 ## Acknowledgements
-Much gratitude for the work of Zaid in London for laying out the foundations for programmatically sifting through project objects; 
-much of his template's structure was adopted into this application, with the exclusion of non-Excel related elements. You can check out 
-his work here: https://datapluscode.com/general/programmatically-search-vba-code/
+Much gratitude for the work of Zaid in London for laying out the foundations for programmatically sifting through VBA project objects; 
+much of his template for backend structure was adopted into this application (with the exclusion of non-Excel related elements). Variable names 
+were changed to guide me building a deeper understanding of how each program element functions. You can check out Zaid's open source work 
+here: https://datapluscode.com/general/programmatically-search-vba-code/
 
-Additional thanks to the many Microsoft and StackExchange contributors who have helped me build a foundational understanding
-of Microsoft Visual Basic for Applications Extensibility, VBIDE object handling, and more.
+Additional thanks to the many Microsoft and StackExchange contributors who have helped me fortify a foundational understanding
+of the Microsoft Visual Basic for Applications Extensibility library and more.
 
 ## Feedback
 Bugs? Questions? Other Feedback? Feel free to reach out to me at gf184grmu@mozmail.com (a Firefox Relay address).
