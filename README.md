@@ -15,6 +15,9 @@ NOTE: The above libraries are already active in the downloadable .xlsm version.
  (2) The “Trust access to the VBA project object model” option must be enabled in your Trust Center's macro settings. This options is
   found along the navigation path: File --> Options --> Trust Center --> Trust Center Settings --> Macro Settings --> Developer Macro Settings
 
+## Screenshot
+![Screenshot][https://ik.imagekit.io/oaiuoc8qwz1/vbaexelsearchscreenshot_FIhiRh3k6.PNG?updatedAt=1641921402786]
+
 ## Usage
 
 To use the application as-is, click on the .xlsm file from the repository and click the "Download" button. Once downloaded, open the file and enable macros. Click the "Begin Search" button and follow the directions as they appear on screen.
