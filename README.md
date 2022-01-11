@@ -26,7 +26,7 @@ Some use tips:
 * This app is designed to examine local files only; it will not work with URL links
 * Make sure to enter the full path with the filename - for example, "C:\User\Desktop\filename.xlsm" (without quotes)
 * Searches are not case sensitive
-* Searches are full-word only with the exception of delimiters like "."
+* Searches are full-word only with the exception of delimiters like "." or ")"
   * This means that a query of "name" will return results for "VBCodeMod.Name" but not "FileName"
 
 The three source files of the downloadable .xlsm version are also available in this repository for download and tweaking.
