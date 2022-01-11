@@ -16,7 +16,7 @@ NOTE: The above libraries are already active in the downloadable .xlsm version.
   found along the navigation path: File --> Options --> Trust Center --> Trust Center Settings --> Macro Settings --> Developer Macro Settings
 
 ## Screenshot
-![Screenshot][https://ik.imagekit.io/oaiuoc8qwz1/vbaexelsearchscreenshot_FIhiRh3k6.PNG?updatedAt=1641921402786]
+![screenshot](https://ik.imagekit.io/oaiuoc8qwz1/vbaexelsearchscreenshot_FIhiRh3k6.PNG)
 
 ## Usage
 
